@@ -1,0 +1,2 @@
+upgrader les awesomefonts en V5
+https://fontawesome.com/how-to-use/on-the-web/setup/upgrading-from-version-4

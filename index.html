@@ -41,6 +41,14 @@
           </span>
           <h5 class="icon-title">{{ page.title }}</h5>
         </div>
+        {% elsif page.gq-icon %}
+        <div class="subtlecircle sectiondivider imaged">
+          <span class="fa-stack">
+<!--            <i class="fa fa-circle fa-stack-2x"></i> -->
+          </span>
+          <img src="{{page.icon}}" alt="section icon" />
+          <h5 class="icon-title">{{ page.title }}</h5>
+        </div>
         {% endif %}
         <div class="container {{ page.style }}">
           {{ page.content }}
