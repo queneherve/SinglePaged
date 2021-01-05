@@ -335,10 +335,10 @@ nav ul li:hover, nav ul li.active {
     top:-100px;
     margin-left:-100px;
   }
-  .sectiondivider img {
+/*  .sectiondivider img {
     width:200px;
     height:200px;
-  }
+  }*/
   .sectiondivider .fa-stack {
     font-size: 100px;
     margin-top: -14px;
