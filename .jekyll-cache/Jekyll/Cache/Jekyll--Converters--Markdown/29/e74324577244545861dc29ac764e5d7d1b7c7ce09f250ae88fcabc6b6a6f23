@@ -1,4 +1,4 @@
-I"_
+I"�
 <h1>Contact</h1>
 <p>Gilles Quénéhervé<br />
 <strong>Lieu des massages</strong> : <a href="https://www.bullesdetente.com/">“Bulles Détente”</a>, 144 route de Vars 16160 Gond-Pontouvre<br />
@@ -7,7 +7,10 @@
 <h2>Sur rendez-vous le soir et le samedi</h2>
 
 <h1>Qui suis-je ?</h1>
-
+<p align="center">
+    <img src="./img/PhotoFaceGilles.png" width="100%" />
+</p>
+<p><img src="./img/PhotoFaceGilles.png" alt="Photo de face" /></p>
 <h3>Mon parcours</h3>
 <p>Ingénieur de formation, j’ai longtemps vécu hors de mon corps, prisonnier de mes cogitations mentales. Je me sentais stressé sans savoir pourquoi.
 Dès 2005, grâce à la pratique du TaiChi Quan, j’ai reconnecté mon esprit à mon corps, affiné mes perceptions et ma sensibilité.</p>
