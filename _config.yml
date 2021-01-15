@@ -38,4 +38,4 @@ kramdown:
   auto_ids:  false
 
 plugins:
-  - jekyll-maps
+     - jekyll-leaflet
