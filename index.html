@@ -13,10 +13,6 @@
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
   {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
 	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
-
-  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-
-  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 </head>
 <body>
   <div id="main">
@@ -43,14 +39,6 @@
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
           </span>
-          <h5 class="icon-title">{{ page.title }}</h5>
-        </div>
-        {% elsif page.gq-icon %}
-        <div class="subtlecircle sectiondivider imaged">
-          <span class="fa-stack">
-<!--            <i class="fa fa-circle fa-stack-2x"></i> -->
-          </span>
-          <img src="{{page.icon}}" alt="section icon" />
           <h5 class="icon-title">{{ page.title }}</h5>
         </div>
         {% endif %}
