@@ -33,6 +33,7 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  argile:    '#efefef'
 
 kramdown:
   auto_ids:  false
